@@ -9,6 +9,10 @@ Op deze pagina vind je alles wat je nodig hebt om een meter te maken waarmee je 
 Let op dat je deze variant koopt en geen andere. Deze werkt op **5 volt**. en kan dus direct op je ESP aangesloten worden.
 
 - Aliexpress: [LJ18A3-8Z/BX](https://www.aliexpress.com/item/32814668848.html) 
+
+## ESP
+
+## Esphome configuratie
 	
 ## 3D geprinte houder voor op je watermeter
 
