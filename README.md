@@ -8,7 +8,8 @@ Op deze pagina vind je alles wat je nodig hebt om een meter te maken waarmee je 
 
 Let op dat je deze variant koopt en geen andere. Deze werkt op **5 volt**. en kan dus direct op je ESP aangesloten worden.
 
-- Aliexpress: [LJ18A3-8Z/BX](https://www.aliexpress.com/item/32814668848.html) 
+- Aliexpress: [LJ18A3-8Z/BX](https://www.aliexpress.com/item/32814668848.html)
+- Opencircuit: [LJ18A3-8-Z/BX](https://opencircuit.nl/product/lj18a3-8-z-bx-5v-nabijheids-sensor-n-o-npn-8mm)
 
 ## ESP
 
