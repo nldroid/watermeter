@@ -24,5 +24,5 @@ Kijk op de [Meters](meters) pagina of jouw meter er bij staat. Download de files
 
 - [Pieter Brinkmans blog](https://www.pieterbrinkman.com/2022/02/02/build-a-cheap-water-usage-sensor-using-esphome-home-assistant-and-a-proximity-sensor/)
 - [Wouters blog](https://www.twoenter.nl/blog/domotica/watermeter-in-home-assistant-met-esphome/)
-- [Installing esphome in Home Assistant](https://esphome.io/guides/getting_started_hassio.html)
+- [Installeer esphome in Home Assistant](https://esphome.io/guides/getting_started_hassio.html)
 - [Esphome pulse counter](https://esphome.io/components/sensor/pulse_counter.html)
