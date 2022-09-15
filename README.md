@@ -12,7 +12,7 @@ Let op dat je deze variant koopt en geen andere. Deze werkt op **5 volt**. en ka
 - Opencircuit: [LJ18A3-8-Z/BX](https://opencircuit.nl/product/lj18a3-8-z-bx-5v-nabijheids-sensor-n-o-npn-8mm) (Iets duurder maar sneller in huis)
 - Amazon: [LJ18A3-8-Z/BX-5V](https://amzn.to/3xtTYy9) (Affiliate link van Bas)
 
-**Let op** als je deze links gebruikt. Ik durf niet te garanderen dat er op een dag een ander type sensor achter de link komt niet niet op **5 volt** werkt.
+**Let op** als je deze links gebruikt. Ik durf niet te garanderen dat er op een dag een ander type sensor achter de link komt die niet niet op **5 volt** werkt.
 
 ## ESP
 
