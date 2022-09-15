@@ -1,6 +1,8 @@
 # Aquadis Itron tu1m15
 
-## Afbeelding
+Houder voor met monteren van een nabijheidsensor op je Aquadis Itron tu1m15 zodat je je waterverbruik kunt meten in Home Assistant.
+
+## Afbeeldingen
 <img src="aquadis_itron_tu1m15.jpg" alt="Aquadis Itron tu1m15" width="500"/>
 
 ## 3D print bestanden
