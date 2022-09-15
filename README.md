@@ -10,3 +10,8 @@ Let op dat je deze variant koopt en geen andere. Deze werkt op **5 volt**. en ka
 
 - Aliexpress: [LJ18A3-8Z/BX](https://www.aliexpress.com/item/32814668848.html) 
 	
+## 3D geprinte houder voor op je watermeter
+
+<img src="meters/aquadis_itron_tu1m15/aquadis_itron_tu1m15.png" alt="LJ18A3-8Z/BX" width="300"/>
+
+Kijk op de [Meters](meters) pagina of jouw meter er bij staat. Download de files voor je slicer en print je eigen houder.
