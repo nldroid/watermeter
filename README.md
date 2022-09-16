@@ -23,6 +23,7 @@ Je kunt elke ESP gebruiken die ondersteund wordt door esphome maar de Wemos D1 m
 <img src="images/esp8266-wemos-d1-mini.png" alt="Wemos D1 Mini" width="300"/>
 
 - Aliexpress: [Wemos D1 mini 3.0 (micro usb)](https://nl.aliexpress.com/item/32651747570.html) (Goedkoop maar langer wachten)
+- Aliexpress: [Wemos D1 mini 4.0 (usb-c)](https://nl.aliexpress.com/item/1005004527213280.html) (Goedkoop maar langer wachten)
 - Opencircuit: [Wemos D1 mini 4.0 (usb-c)](https://opencircuit.nl/product/wemos-d1-mini-v4.0-wifi-module)
 
 
