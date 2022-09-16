@@ -18,6 +18,11 @@ Let op dat je de **5 volt** variant koopt en geen andere. Alleen de **5 volt** v
 Neem de NPN versie. Het maakt niet uit of je een 'Normally Closed' (NC) of 'Normally Opened' (NO) versie koopt omdat we de overgangen tellen.
 
 ## ESP
+Je kunt elke ESP gebruiken die ondersteund wordt door esphome maar de Wemos D1 mini is een goede optie. Hij is goedkoop en goed verkrijgbaar.
+<img src="images/esp8266-wemos-d1-mini.png" alt="Wemos D1 Mini" width="300"/>
+- Aliexpress: [Wemos D1 mini 3.0 (micro usb)](https://nl.aliexpress.com/item/32651747570.html) (Goedkoop maar langer wachten)
+- Opencircuit: [Wemos D1 mini 4.0 (usb-c)](https://opencircuit.nl/product/wemos-d1-mini-v4.0-wifi-module)
+
 
 ## Esphome configuratie
 	
