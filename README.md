@@ -39,6 +39,14 @@ Als je zelf geen 3D printer hebt, kun je een houder bestellen bij [Bast](https:/
 
 Je kunt [deze esphome configuratie](yaml/watermeter.yaml) gebruiken in esphome. 
 
+## Aansluiten
+Sluit de draden van de nabijheidsensor op de volgende manier aan:
+- Bruin: 5V
+- Blauw: GND
+- Zwart: D2/GPIO4 (deze is zo ingesteld in de voorbeeld esphome configuratie)
+
+<img src="images/aansluiten.png" alt="Aansluiten Wemos D1" width="400"/>
+
 ## Meer informatie
 
 - [Pieter Brinkmans blog](https://www.pieterbrinkman.com/2022/02/02/build-a-cheap-water-usage-sensor-using-esphome-home-assistant-and-a-proximity-sensor/)
