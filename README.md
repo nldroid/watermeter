@@ -2,6 +2,8 @@
 
 Op deze pagina vind je alles wat je nodig hebt om een meter te maken waarmee je in Home Assistant je waterverbuik kunt monitoren.
 
+Voor alle componenten geld dat de Aliexpress versies goedkoper zijn maar dat je er langer op moet wachten voordat je ze in huis hebt. De componenten die je in nederlandse winkels koopt zijn sneller in huis maar duurder.
+
 ## Nabijheidsensor LJ18A3-8Z/BX NPN NO
 Ik heb in het verleden wel eens geprobeerd om een optische pulse counter te gebruiken voor mijn watermeter maar dat was niet echt een succes. Daarom adviseer ik om een nabijheidsensor te gebruiken.
 
@@ -10,9 +12,13 @@ Ik heb in het verleden wel eens geprobeerd om een optische pulse counter te gebr
 
 Let op dat je de **5 volt** variant koopt en geen andere. Alleen de **5 volt** versie kan direct op je ESP aangesloten worden.
 
-- Aliexpress: [LJ18A3-8Z/BX](https://www.aliexpress.com/item/32814668848.html) (Goedkoop maar langer wachten)
-- Opencircuit: [LJ18A3-8-Z/BX](https://opencircuit.nl/product/lj18a3-8-z-bx-5v-nabijheids-sensor-n-o-npn-8mm) (Duurder maar sneller in huis)
+### M18 (18mm diameter)
+- Aliexpress: [LJ18A3-8Z/BX](https://www.aliexpress.com/item/32814668848.html)
+- Opencircuit: [LJ18A3-8-Z/BX](https://opencircuit.nl/product/lj18a3-8-z-bx-5v-nabijheids-sensor-n-o-npn-8mm)
 - Amazon: [LJ18A3-8-Z/BX-5V](https://amzn.to/3xtTYy9) (Affiliate link van Bas)
+
+### M12 (12mm diameter)
+- Aliexpress: [LJ12A3-4-Z/BX](https://www.aliexpress.com/item/32553311139.html)
 
 **Let op** als je deze links gebruikt. Ik durf niet te garanderen dat er op een dag een ander type sensor achter de link komt die niet niet op **5 volt** werkt.
 
@@ -23,9 +29,10 @@ Je kunt elke ESP gebruiken die ondersteund wordt door esphome maar de Wemos D1 m
 
 <img src="images/esp8266-wemos-d1-mini.png" alt="Wemos D1 Mini" width="300"/>
 
-- Aliexpress: [Wemos D1 mini 3.0 (micro usb)](https://nl.aliexpress.com/item/32651747570.html) (Goedkoop maar langer wachten)
-- Aliexpress: [Wemos D1 mini 4.0 (usb-c)](https://nl.aliexpress.com/item/1005004527213280.html) (Goedkoop maar langer wachten)
-- Opencircuit: [Wemos D1 mini 4.0 (usb-c)](https://opencircuit.nl/product/wemos-d1-mini-v4.0-wifi-module) (Duurder maar sneller in huis)
+- Aliexpress: [Wemos D1 mini 3.0 (micro usb)](https://nl.aliexpress.com/item/32651747570.html)
+- Aliexpress: [Wemos D1 mini 4.0 (usb-c)](https://nl.aliexpress.com/item/1005004527213280.html)
+- Opencircuit: [Wemos D1 mini 4.0 (usb-c)](https://opencircuit.nl/product/wemos-d1-mini-v4.0-wifi-module)
+
 
 ## 3D geprinte houder voor op je watermeter
 
