@@ -1,0 +1,39 @@
+substitutions:
+  wifi_ssid: MY_SS_ID
+  wifi_password: MY_PASSWORD
+  hotspot_password: HOTSPOT_PASSWORD
+  esphome_name: Watermeter
+  esphome_userfriendly_name: Watermeter Sensors
+  esphome_platform: ESP8266
+  esphome_board: d1_mini
+  room_name: Meterkast
+  
+esphome:
+  name: ${esphome_name}
+  platform: ${esphome_platform}
+  board: ${esphome_board}
+
+sensor:
+- platform: pulse_counter
+    pin: GPIO4
+    update_interval : 6s
+    name: "water pulse"
+    id: water_pulse
+
+- platform: pulse_meter
+    pin: GPIO4
+    name: "Water Pulse Meter"
+    unit_of_measurement: "liter/min"
+    icon: "mdi:water"
+    total:
+      name: "Water Total"
+      unit_of_measurement: "liter"
+
+  - platform: template
+    name: "Water Usage Liter"
+    id: water_flow_rate
+    accuracy_decimals: 1
+    unit_of_measurement: "l/min"
+    icon: "mdi:water"
+    lambda: return (id(water_pulse).state * 10);
+    update_interval: 6s
