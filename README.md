@@ -7,7 +7,7 @@ Voor alle componenten geld dat de Aliexpress versies goedkoper zijn maar dat je 
 ## Nabijheidsensor LJ18A3-8Z/BX NPN NO
 Ik heb in het verleden wel eens geprobeerd om een optische pulse counter te gebruiken voor mijn watermeter maar dat was niet echt een succes. Daarom adviseer ik om een nabijheidsensor te gebruiken.
 
-<img src="images/HTB1PeJcRFXXXXX1aXXXq6xXFXXXm.jpg" alt="LJ18A3-8Z/BX" width="300"/>
+<img src="images/sensor.png" alt="LJ18A3-8Z/BX 5V" width="300"/>
 <img src="images/diagram.png" alt="LJ18A3-8Z/BX diagram" width="300"/>
 
 Let op dat je de **5 volt** variant koopt en geen andere. Alleen de **5 volt** versie kan direct op je ESP aangesloten worden.
