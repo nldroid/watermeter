@@ -13,7 +13,7 @@ Ik heb in het verleden wel eens geprobeerd om een optische pulse counter te gebr
 Let op dat je de **5 volt** variant koopt en geen andere. Alleen de **5 volt** versie kan direct op je ESP aangesloten worden.
 
 ### M18 (18mm diameter)
-- Aliexpress: [LJ18A3-8Z/BX](https://www.aliexpress.com/item/32814668848.html)
+- Aliexpress: [LJ18A3-8Z/BX 5V](https://nl.aliexpress.com/item/1005001342927135.html)
 - Opencircuit: [LJ18A3-8-Z/BX](https://opencircuit.nl/product/lj18a3-8-z-bx-5v-nabijheids-sensor-n-o-npn-8mm)
 - Amazon: [LJ18A3-8-Z/BX-5V](https://amzn.to/3xtTYy9) (Affiliate link van Bas)
 
