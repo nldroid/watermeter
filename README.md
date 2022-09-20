@@ -4,7 +4,7 @@ Op deze pagina vind je alles wat je nodig hebt om een meter te maken waarmee je 
 
 Voor alle componenten geld dat de Aliexpress versies goedkoper zijn maar dat je er langer op moet wachten voordat je ze in huis hebt. De componenten die je in nederlandse winkels koopt zijn sneller in huis maar duurder.
 
-## Nabijheidsensor LJ18A3-8Z/BX NPN NO
+## Nabijheidsensor LJ18A3-8Z/BX NPN NO 5V
 Ik heb in het verleden wel eens geprobeerd om een optische pulse counter te gebruiken voor mijn watermeter maar dat was niet echt een succes. Daarom adviseer ik om een nabijheidsensor te gebruiken.
 
 <img src="images/sensor.png" alt="LJ18A3-8Z/BX 5V" width="300"/>
