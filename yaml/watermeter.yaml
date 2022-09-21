@@ -14,13 +14,13 @@ esphome:
   board: ${esphome_board}
 
 sensor:
-- platform: pulse_counter
+  - platform: pulse_counter
     pin: GPIO4
     update_interval : 6s
     name: "water pulse"
     id: water_pulse
 
-- platform: pulse_meter
+  - platform: pulse_meter
     pin: GPIO4
     name: "Water Pulse Meter"
     unit_of_measurement: "liter/min"
